@@ -11,6 +11,7 @@ Questions asked are:
  - <b>Are there any factors you can find that are connected with late returns? </b>
  
   Yes. I find that distance bewteen the library and the customer's residence is the most important factor in determining the possibility of late return.
+ The possibility of late return increases for increasing the distance between the library and the customer's residence.
  
  - <b>What would you recommend the library do to mitigate the risks you find? </b>
   
@@ -27,6 +28,9 @@ On an average 20% of the books return late in these libraries. If they can imple
 - #### 1. Data Wrangling
 - #### 2. Model Building
 - #### 3. Visulaization and Conclusion
+
+<b>NOTE :</b> It takes around 15-16 minutes for downlaoding the co-ordinate data. It will be saved in a file. In next run you are requested to comment out the "Get co-ordinates" block in the 'Standardizing the customer data' section. 
+
 ----------
 
  For calculating the distance between the residence of the customers and the libraries we used the co-ordinate location of the addresses from 
