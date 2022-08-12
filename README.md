@@ -28,7 +28,7 @@ On average 20% of the books return late in these libraries. If they can implemen
 - #### 2. Model Building
 - #### 3. Visulaization and Conclusion
 
-<b>NOTE :</b> It takes around 15-16 minutes for downloading the co-ordinate data. It will be saved in a file. In the next run, you are requested to comment out the "Get co-ordinates" block in the 'Standardizing the customer data' section. 
+<b>NOTE :</b> It takes around 15-16 minutes for downloading the co-ordinate data. It will be saved in a file. In the next run, you are requested to comment out the "Get co-ordinates" block in the 'Standardizing customer data' section. 
 
 ----------
 
